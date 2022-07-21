@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "LeagueGothicRegular";
+    src: url("../assets/League_Gothic-webfont.woff") format("woff");
+}
 .awesomesauce {
     background-image: url("../assets/awesome_background.jpg");
 }
@@ -8,6 +12,10 @@
 }
 
 .header{
-    color: hotpink;
-    text-shadow: black;
+    color: #f9328e !important;
+    font-family: 'LeagueGothicRegular', Arial, sans-serif;
+    text-shadow: 4px 2px black;
+    text-align: center;
+    font-size: 70px;
+    text-transform: uppercase;
 }
