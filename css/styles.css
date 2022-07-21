@@ -1,0 +1,13 @@
+.awesomesauce {
+    background-image: url("../assets/awesome_background.jpg");
+}
+
+#display-panel{
+    height: 100vh;
+
+}
+
+.header{
+    color: hotpink;
+    text-shadow: black;
+}
